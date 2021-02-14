@@ -1,0 +1,587 @@
+[
+   {
+      "artistName":"Will Arnett, Jason Bateman, Sean Hayes",
+      "id":"1521578868",
+      "releaseDate":"2020-10-26",
+      "name":"SmartLess",
+      "kind":"podcast",
+      "copyright":"© 2020 SmartLess LLC",
+      "contentAdvisoryRating":"Explicit",
+      "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/b3/4c/cf/b34ccfc2-cea4-1ca1-0fad-7793af301cc5/mza_2466085192629456364.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1496",
+            "name":"Comedy Interviews",
+            "url":"https://itunes.apple.com/ca/genre/id1496"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1303",
+            "name":"Comedy",
+            "url":"https://itunes.apple.com/ca/genre/id1303"
+         },
+         {
+            "genreId":"1304",
+            "name":"Education",
+            "url":"https://itunes.apple.com/ca/genre/id1304"
+         },
+         {
+            "genreId":"1499",
+            "name":"How To",
+            "url":"https://itunes.apple.com/ca/genre/id1499"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/smartless/id1521578868"
+   },
+   {
+      "artistName":"QCODE",
+      "id":"1544239486",
+      "releaseDate":"2020-12-21",
+      "name":"From Now",
+      "kind":"podcast",
+      "copyright":"© QCODE Media, Inc.",
+      "contentAdvisoryRating":"Explicit",
+      "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/72/45/84/7245849f-d203-22bf-e53a-c7e16f8acb2c/mza_3431828408338663535.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1485",
+            "name":"Science Fiction",
+            "url":"https://itunes.apple.com/ca/genre/id1485"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1483",
+            "name":"Fiction",
+            "url":"https://itunes.apple.com/ca/genre/id1483"
+         },
+         {
+            "genreId":"1484",
+            "name":"Drama",
+            "url":"https://itunes.apple.com/ca/genre/id1484"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/from-now/id1544239486"
+   },
+   {
+      "artistName":"NBC News",
+      "id":"1464919521",
+      "releaseDate":"2020-10-28",
+      "name":"Dateline NBC",
+      "kind":"podcast",
+      "copyright":"© © Copyright © 2019 NBC News",
+      "artistId":"119945391",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/nbc-news/119945391",
+      "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/96/b9/f6/96b9f69e-14c4-c394-98cc-b297ae9b5185/mza_14463640336747380432.jpeg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1488",
+            "name":"True Crime",
+            "url":"https://itunes.apple.com/ca/genre/id1488"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1489",
+            "name":"News",
+            "url":"https://itunes.apple.com/ca/genre/id1489"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/dateline-nbc/id1464919521"
+   },
+   {
+      "artistName":"Kast Media",
+      "id":"1545664738",
+      "releaseDate":"2020-12-22",
+      "name":"The Jason Ellis Show",
+      "kind":"podcast",
+      "contentAdvisoryRating":"Explicit",
+      "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/82/2e/7f/822e7f35-3e79-16a0-8b22-7647b47afb83/mza_5221611393434101320.jpeg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1303",
+            "name":"Comedy",
+            "url":"https://itunes.apple.com/ca/genre/id1303"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1324",
+            "name":"Society \u0026 Culture",
+            "url":"https://itunes.apple.com/ca/genre/id1324"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/the-jason-ellis-show/id1545664738"
+   },
+   {
+      "artistName":"The New York Times",
+      "id":"1200361736",
+      "releaseDate":"2020-10-28",
+      "name":"The Daily",
+      "kind":"podcast",
+      "copyright":"© 2020-2021 THE NEW YORK TIMES COMPANY; The New York Times encourages the use of RSS feeds for personal use in a news reader or as part of a non-commercial blog, subject to your agreement to our Terms of Service. Any commercial use of the RSS feed, and thus our content accessible via it, is prohibited without a written specific permission from The New York Times . We require proper format and attribution whenever New York Times content is posted on other's properties, and we reserve the right to require that you cease distributing our content.",
+      "artistId":"121664449",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/the-new-york-times/121664449",
+      "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/93/cf/99/93cf9960-fff3-205e-6655-72c03ddeccb2/mza_10545582232493904175.jpeg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1526",
+            "name":"Daily News",
+            "url":"https://itunes.apple.com/ca/genre/id1526"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1489",
+            "name":"News",
+            "url":"https://itunes.apple.com/ca/genre/id1489"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/the-daily/id1200361736"
+   },
+   {
+      "artistName":"iHeartRadio",
+      "id":"278981407",
+      "releaseDate":"2020-10-28",
+      "name":"Stuff You Should Know",
+      "kind":"podcast",
+      "copyright":"© Copyright 2020 iHeartRadio",
+      "artistId":"284341002",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/iheartradio/284341002",
+      "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ea/8a/17/ea8a173e-9844-bb29-7e61-48f2924308a7/mza_10711468109826490811.png/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1324",
+            "name":"Society \u0026 Culture",
+            "url":"https://itunes.apple.com/ca/genre/id1324"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/stuff-you-should-know/id278981407"
+   },
+   {
+      "artistName":"Parcast Network",
+      "id":"1494350511",
+      "releaseDate":"2020-10-28",
+      "name":"Unlocking Us with Brené Brown",
+      "kind":"podcast",
+      "copyright":"© Cutler Media LLC",
+      "artistId":"1311492560",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/parcast-network/1311492560",
+      "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/bf/b2/4d/bfb24d1d-2814-d57d-df42-7880c02acfe0/mza_15459734383097674081.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1544",
+            "name":"Relationships",
+            "url":"https://itunes.apple.com/ca/genre/id1544"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1324",
+            "name":"Society \u0026 Culture",
+            "url":"https://itunes.apple.com/ca/genre/id1324"
+         },
+         {
+            "genreId":"1304",
+            "name":"Education",
+            "url":"https://itunes.apple.com/ca/genre/id1304"
+         },
+         {
+            "genreId":"1500",
+            "name":"Self-Improvement",
+            "url":"https://itunes.apple.com/ca/genre/id1500"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/unlocking-us-with-bren%C3%A9-brown/id1494350511"
+   },
+   {
+      "artistName":"audiochuck",
+      "id":"1322200189",
+      "releaseDate":"2020-10-26",
+      "name":"Crime Junkie",
+      "kind":"podcast",
+      "copyright":"© audiochuck",
+      "artistId":"1485045052",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/audiochuck/1485045052",
+      "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/2b/67/af/2b67afcb-7094-244d-ff3f-4f58c3638898/mza_7138968520833114131.png/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1488",
+            "name":"True Crime",
+            "url":"https://itunes.apple.com/ca/genre/id1488"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/crime-junkie/id1322200189"
+   },
+   {
+      "artistName":"Armchair Umbrella",
+      "id":"1345682353",
+      "releaseDate":"2020-10-26",
+      "name":"Armchair Expert with Dax Shepard",
+      "kind":"podcast",
+      "copyright":"© 2019 Armchair Expert Podcast",
+      "artistId":"1440160896",
+      "contentAdvisoryRating":"Explicit",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/armchair-umbrella/1440160896",
+      "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts124/v4/f7/18/33/f71833af-0dcb-b084-a6ea-5b92d66a452c/mza_9340573436843909310.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1303",
+            "name":"Comedy",
+            "url":"https://itunes.apple.com/ca/genre/id1303"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1309",
+            "name":"TV \u0026 Film",
+            "url":"https://itunes.apple.com/ca/genre/id1309"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/armchair-expert-with-dax-shepard/id1345682353"
+   },
+   {
+      "artistName":"Campside Media",
+      "id":"1532225667",
+      "releaseDate":"2020-12-10",
+      "name":"Chameleon: Hollywood Con Queen",
+      "kind":"podcast",
+      "copyright":"© 2020 Campside Media",
+      "contentAdvisoryRating":"Explicit",
+      "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/be/89/36/be8936b0-5c1a-a5f9-af9e-151df6997784/mza_16068802139364359880.jpeg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1324",
+            "name":"Society \u0026 Culture",
+            "url":"https://itunes.apple.com/ca/genre/id1324"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1488",
+            "name":"True Crime",
+            "url":"https://itunes.apple.com/ca/genre/id1488"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/chameleon-hollywood-con-queen/id1532225667"
+   },
+   {
+      "artistName":"Joe Rogan",
+      "id":"360084272",
+      "releaseDate":"2020-10-27",
+      "name":"The Joe Rogan Experience",
+      "kind":"podcast",
+      "copyright":"Copyright © Talking Monkey Productions",
+      "artistId":"974891224",
+      "contentAdvisoryRating":"Explicit",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/joe-rogan/974891224",
+      "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/95/12/3e/95123eca-f1e0-5800-95e6-c5ab6fb1979d/mza_12691195935311130428.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1303",
+            "name":"Comedy",
+            "url":"https://itunes.apple.com/ca/genre/id1303"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1324",
+            "name":"Society \u0026 Culture",
+            "url":"https://itunes.apple.com/ca/genre/id1324"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/the-joe-rogan-experience/id360084272"
+   },
+   {
+      "artistName":"Michael Hobbes \u0026 Sarah Marshall",
+      "id":"1380008439",
+      "releaseDate":"2020-10-22",
+      "name":"You're Wrong About",
+      "kind":"podcast",
+      "copyright":"℗ \u0026 © 2020 You're Wrong About",
+      "contentAdvisoryRating":"Explicit",
+      "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/2f/c1/29/2fc1293c-f0ed-edb9-3172-1edbfe3cab37/mza_6880413875887879581.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1487",
+            "name":"History",
+            "url":"https://itunes.apple.com/ca/genre/id1487"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1488",
+            "name":"True Crime",
+            "url":"https://itunes.apple.com/ca/genre/id1488"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/youre-wrong-about/id1380008439"
+   },
+   {
+      "artistName":"Kristi Lee",
+      "id":"1197095887",
+      "releaseDate":"2020-12-16",
+      "name":"Canadian True Crime",
+      "kind":"podcast",
+      "contentAdvisoryRating":"Explicit",
+      "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/29/b8/83/29b883e0-922e-b8ba-aff7-20a9ad9fa843/mza_7668654605351783902.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1488",
+            "name":"True Crime",
+            "url":"https://itunes.apple.com/ca/genre/id1488"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/canadian-true-crime/id1197095887"
+   },
+   {
+      "artistName":"Exactly Right",
+      "id":"1074507850",
+      "releaseDate":"2020-10-26",
+      "name":"My Favorite Murder with Karen Kilgariff and Georgia Hardstark",
+      "kind":"podcast",
+      "copyright":"© 2020 Exactly Right",
+      "artistId":"1445321651",
+      "contentAdvisoryRating":"Explicit",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/exactly-right/1445321651",
+      "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1a/5d/48/1a5d4878-8769-4ce6-9727-f6601c548f8e/mza_12582235105778532397.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1488",
+            "name":"True Crime",
+            "url":"https://itunes.apple.com/ca/genre/id1488"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1303",
+            "name":"Comedy",
+            "url":"https://itunes.apple.com/ca/genre/id1303"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/my-favorite-murder-karen-kilgariff-georgia-hardstark/id1074507850"
+   },
+   {
+      "artistName":"Barstool Sports",
+      "id":"1112425552",
+      "releaseDate":"2020-10-22",
+      "name":"Spittin Chiclets",
+      "kind":"podcast",
+      "copyright":"© 2020 Barstool Sports",
+      "artistId":"1524874689",
+      "contentAdvisoryRating":"Explicit",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/barstool-sports/1524874689",
+      "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/c2/25/49/c22549b0-7b8b-95d6-a74e-2e69021aa311/mza_5018221497375928426.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1550",
+            "name":"Hockey",
+            "url":"https://itunes.apple.com/ca/genre/id1550"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1545",
+            "name":"Sports",
+            "url":"https://itunes.apple.com/ca/genre/id1545"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/spittin-chiclets/id1112425552"
+   },
+   {
+      "artistName":"CBC Radio",
+      "id":"1520280108",
+      "releaseDate":"2020-09-06",
+      "name":"Vinyl Cafe",
+      "kind":"podcast",
+      "copyright":"Copyright © CBC 2020",
+      "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/ec/49/e7/ec49e768-c9f8-05d2-ba0a-64f40c8854e4/mza_17625077495044533407.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1303",
+            "name":"Comedy",
+            "url":"https://itunes.apple.com/ca/genre/id1303"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/vinyl-cafe/id1520280108"
+   },
+   {
+      "artistName":"PodcastOne",
+      "id":"1240420549",
+      "releaseDate":"2020-12-17",
+      "name":"Off The Vine with Kaitlyn Bristowe",
+      "kind":"podcast",
+      "copyright":"Copyright © 2002-2020 PodcastOne.com. All rights reserved.",
+      "artistId":"600711892",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/podcastone/600711892",
+      "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/ac/bc/09/acbc09d2-eaaf-f602-ba66-729e35408d35/mza_8466365586608198425.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1324",
+            "name":"Society \u0026 Culture",
+            "url":"https://itunes.apple.com/ca/genre/id1324"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1309",
+            "name":"TV \u0026 Film",
+            "url":"https://itunes.apple.com/ca/genre/id1309"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/off-the-vine-with-kaitlyn-bristowe/id1240420549"
+   },
+   {
+      "artistName":"Tim Ferriss: Bestselling Author, Human Guinea Pig",
+      "id":"863897795",
+      "releaseDate":"2020-10-28",
+      "name":"The Tim Ferriss Show",
+      "kind":"podcast",
+      "copyright":"© 2014–2020 Tim Ferriss",
+      "artistId":"867667252",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/tim-ferriss-bestselling-author-human-guinea-pig/867667252",
+      "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/31/e2/0e/31e20e97-63a4-be59-5210-299e3dc903f7/mza_5431675134966086683.jpeg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1493",
+            "name":"Entrepreneurship",
+            "url":"https://itunes.apple.com/ca/genre/id1493"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1321",
+            "name":"Business",
+            "url":"https://itunes.apple.com/ca/genre/id1321"
+         },
+         {
+            "genreId":"1304",
+            "name":"Education",
+            "url":"https://itunes.apple.com/ca/genre/id1304"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/the-tim-ferriss-show/id863897795"
+   },
+   {
+      "artistName":"Barstool Sports",
+      "id":"1418960261",
+      "releaseDate":"2020-10-28",
+      "name":"Call Her Daddy",
+      "kind":"podcast",
+      "copyright":"© 2020 Barstool Sports",
+      "artistId":"1524874689",
+      "contentAdvisoryRating":"Explicit",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/barstool-sports/1524874689",
+      "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/49/e9/81/49e981e4-d091-4606-286e-638dcbc56c9c/mza_12955684709731251328.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1303",
+            "name":"Comedy",
+            "url":"https://itunes.apple.com/ca/genre/id1303"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/call-her-daddy/id1418960261"
+   },
+   {
+      "artistName":"Curiouscast",
+      "id":"1201927184",
+      "releaseDate":"2020-12-23",
+      "name":"History of the 90s",
+      "kind":"podcast",
+      "copyright":"© 2020 Curiouscast",
+      "artistId":"1405146017",
+      "artistUrl":"https://podcasts.apple.com/ca/artist/curiouscast/1405146017",
+      "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f8/4b/e5/f84be523-eed8-eb79-668d-fb5771ec00ca/mza_1323099713021828755.jpg/200x200bb.png",
+      "genres":[
+         {
+            "genreId":"1487",
+            "name":"History",
+            "url":"https://itunes.apple.com/ca/genre/id1487"
+         },
+         {
+            "genreId":"26",
+            "name":"Podcasts",
+            "url":"https://itunes.apple.com/ca/genre/id26"
+         },
+         {
+            "genreId":"1324",
+            "name":"Society \u0026 Culture",
+            "url":"https://itunes.apple.com/ca/genre/id1324"
+         },
+         {
+            "genreId":"1543",
+            "name":"Documentary",
+            "url":"https://itunes.apple.com/ca/genre/id1543"
+         }
+      ],
+      "url":"https://podcasts.apple.com/ca/podcast/history-of-the-90s/id1201927184"
+   }
+]
